@@ -11,7 +11,9 @@ class Solution:
     # O(x) Time Complexity
     # O(x) Space Complexity
     # ! Solution Name
-    # Solution Summary = 
+    '''
+    Solution Thoughts:
+    '''
     
     def Function(self):
         return 
